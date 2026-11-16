@@ -252,7 +252,7 @@ h1 em, h2 em { color: var(--red); font-style: italic; }
   .section { display: flex; min-height: auto; flex-direction: column; align-items: flex-start; gap: 41px; padding: 108px 24px 96px; }
   .section-number { position: absolute; top: 47px; }
   .story-copy { padding-top: 48px; }
-  .founder-card { align-self: flex-end; width: min(225px, 68vw); }
+  .founder-card { align-self: center; width: min(225px, 68vw); }
   .signature-section { padding: 96px 16px; }
   .section-intro { display: block; margin: 0 8px 48px; }
   .section-intro > p:last-child { margin-top: 26px; }
